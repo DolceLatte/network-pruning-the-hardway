@@ -1,9 +1,7 @@
 # network-pruning-the-hardway
 Network pruning을 직접 구현하고 torch_pruning 패키지와 성능을 비교합니다. 
 
-```python
-pip install torch_pruning
-```
+
 #### train vgg 11
 ```bash
 python3 train.py # train vgg11
@@ -25,3 +23,6 @@ python3 ./script/quick_start_tp.py # after train vgg11
 ### reference 
 - https://github.com/yasersakkaf/Neural-Network-Pruning-using-PyTorch
 - https://github.com/VainF/Torch-Pruning
+- ```python
+pip install torch_pruning
+```
