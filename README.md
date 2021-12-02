@@ -23,6 +23,4 @@ python3 ./script/quick_start_tp.py # after train vgg11
 ### reference 
 - https://github.com/yasersakkaf/Neural-Network-Pruning-using-PyTorch
 - https://github.com/VainF/Torch-Pruning
-- ```python
-pip install torch_pruning
-```
+- ```python pip install torch_pruning ```
