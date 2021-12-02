@@ -1,17 +1,15 @@
 # network-pruning-the-hardway
 Network pruning을 직접 구현하고 torch_pruning 패키지와 성능을 비교합니다. 
 
-
+### Usage
 #### train vgg 11
 ```bash
 python3 train.py # train vgg11
 ```
-
 #### network-pruning-the-hardway
 ```bash
 python3 pruning.py # after train vgg11
 ```
-
 #### network-pruning-using torch_pruning
 ```bash
 python3 ./script/quick_start_tp.py # after train vgg11
