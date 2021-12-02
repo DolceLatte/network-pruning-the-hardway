@@ -1,5 +1,5 @@
 # network-pruning-the-hardway on VGG 11
-Network pruning을 직접 구현하고 torch_pruning 패키지와 성능을 비교합니다. 
+Network pruning을 직접 구현하고 torch_pruning 패키지와 성능을 비교합니다. <br/>
 VGG 11의 parameter수가 많은 FC-Layer에 pruning을 적용합니다. 
 
 ### Usage
