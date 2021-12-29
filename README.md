@@ -18,6 +18,8 @@ python3 ./script/quick_start_tp.py # after train vgg11
 
 ### evaluation metric
 -  추론 시간 대비 정확도 및 학습 파라미터 수 대비 정확도
+![prun](https://user-images.githubusercontent.com/45285053/147638916-0c60f123-bba6-44af-9d85-62813dc14d68.PNG)
+
 
 ### reference 
 - https://github.com/yasersakkaf/Neural-Network-Pruning-using-PyTorch
